@@ -5,7 +5,7 @@ import java.util.Scanner;
 public class CarRentalService {
     static final String DB_URL = "jdbc:mysql://localhost:3306/carrentaldb";
     static final String USER = "root";  // Adjust as per your MySQL username
-    static final String PASS = "Lithi@123";  // Adjust as per your MySQL password
+    static final String PASS = "";  // Adjust as per your MySQL password
 
     public void displayMenu() {
         System.out.println("===== Welcome to our Car Rental System =====");
